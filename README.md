@@ -38,7 +38,7 @@ The repository has the following folder structure:
 ```
 $ git clone git@github.com:jlunsw/groupA-Bandits.git
 ```
-2. Each of you should do your work under your branch rather than the 'master' one.
+2. Each of you should do your work under your branch rather than the 'main' one.
 ```
 $ git checkout <your branch>
 ```
@@ -51,3 +51,9 @@ $ git commit . -m "<some message>"
 $ git push
 ```
 If you need to merge to master, please send a pull request.
+
+If you need to merge from 'main' or other branch, do
+```
+$ git merge <source branch>
+```
+You may encounter conflicts, then you need to resolve them before you commit your changes.
