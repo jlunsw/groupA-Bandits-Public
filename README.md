@@ -10,11 +10,11 @@ Complete the information below regarding your group.
 
 ### Group members and zIDs
 - Benjamin Costello (Z5324262) - Group leader
-- Mohammed Ferkh (Z5344380) - Model
-- Brooke Gassner (Z5207618) - Documentation
-- Amy Raggatt (Z5294732) - Documentation
-- Tomas Klein (Z5294915) - Data visualization
-- Jun Li (Z5322278) - Model
+- Mohammed Ferkh (Z5344380) - Modelling
+- Brooke Gassner (Z5207618) - Document
+- Amy Raggatt (Z5294732) - Document
+- Tomas Klein (Z5294915) - Mats and visuals
+- Jun Li (Z5322278) - Modelling
 
 ### Brief project description
 
