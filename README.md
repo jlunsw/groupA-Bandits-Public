@@ -36,5 +36,18 @@ The repository has the following folder structure:
 
 1. Clone the repo to your local.
 ```
-$ git clone 
+$ git clone git@github.com:jlunsw/groupA-Bandits.git
 ```
+2. Each of you should do your work under your branch rather than the 'master' one.
+```
+$ git checkout <your branch>
+```
+3. Commit your changes
+```
+$ git commit . -m "<some message>"
+```
+4. Push to your changes to repo
+```
+$ git push
+```
+If you need to merge to master, please send a pull request.
